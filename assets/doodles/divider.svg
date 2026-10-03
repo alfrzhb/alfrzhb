@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="24" viewBox="0 0 680 24">
+  <title>Hand-drawn crayon divider</title>
+  <rect width="680" height="24" rx="5" fill="#f7f2e8" />
+  <g fill="none" stroke-linecap="round">
+    <path d="M13 14 Q160 8 318 12 T658 11" stroke="#d3b493" stroke-width="5" opacity=".65" />
+    <path d="M14 10 Q177 15 351 10 T658 13" stroke="#454842" stroke-width="1.4" />
+    <path d="m559 10 10-5 m0 8 9-6 m0 7 9-6 m0 7 9-6" stroke="#8b9e8b" stroke-width="2.1" />
+  </g>
+</svg>

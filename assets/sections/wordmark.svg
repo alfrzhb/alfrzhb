@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="88" viewBox="0 0 320 88" role="img" aria-labelledby="title desc">
+  <title id="title">ALFRZHB</title>
+  <desc id="desc">Navy editorial lettering on warm paper, with a hatched peach crayon underline and small pencil rays.</desc>
+  <defs>
+    <pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)">
+      <path d="M-2 8 9 1 M6 12 15 5" stroke="#a98564" stroke-width="1.2" opacity=".3" />
+    </pattern>
+  </defs>
+  <path d="M7 6 311 4 316 79 6 83Z" fill="#f7f2e8" />
+  <path d="M18 59 Q104 54 265 60 L260 75 Q138 68 20 75Z" fill="#eac7b0" />
+  <path d="M18 59 Q104 54 265 60 L260 75 Q138 68 20 75Z" fill="url(#hatch)" />
+  <text x="18" y="57" fill="#35485d" font-family="Georgia, 'Times New Roman', serif" font-size="47" font-weight="700" letter-spacing="1">ALFRZHB</text>
+  <path d="M21 73 Q123 68 258 72" fill="none" stroke="#262724" stroke-width="1.7" stroke-linecap="round" />
+  <g fill="none" stroke="#262724" stroke-width="2" stroke-linecap="round">
+    <path d="m282 35 8-12 m-4 24 13-2 m-19 13 9 7" />
+  </g>
+</svg>

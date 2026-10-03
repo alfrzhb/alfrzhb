@@ -1,0 +1,3 @@
+# Local visual review only; no generated preview files are published.
+.review/
+REVIEW.md
