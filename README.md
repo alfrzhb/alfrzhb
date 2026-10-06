@@ -1,53 +1,71 @@
-<img src="assets/sections/wordmark.svg" width="168" align="middle" alt="ALFRZHB" /> &nbsp; <img src="assets/character/original/alfrzhb-full.png" width="64" align="middle" alt="Original ALFRZHB character, wearing glasses, a navy shirt and a shoulder bag" />
+<div align="center">
+  <img src="https://i.imgur.com/4ASafy0.png"  />
+  <p align="center"> 
+</div>
 
-# Muhammad Alfarizi Habibullah
+<h2 align="left">My name is Muhammad Alfarizi Habibullah and I'm a Frontend Devloper</h2>
+<br/>
+👨‍💻 I’m currently undergraduate informatics student at UIN Sunan Kalijaga
+<br/>
+📚 I’m currently learning everything about Fullstack😅
+<br/>
+💪🏼 Future Goals: Learn more technologies
 
-**Software Engineer · Informatics Graduate**
+###
 
-I build web and Android applications, with a growing focus on cloud-oriented systems and AI-assisted software.
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=V60Code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=V60Code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+</div>
 
-[Portfolio](https://alfrzhb.com) · [LinkedIn](https://www.linkedin.com/in/m-alfarizi-habibullah/) · [Email](mailto:m.alfarizihabibullah@gmail.com)
+###
 
-### GitHub at a glance
+<img align="right" height="150" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47kpvyknp6go0qb4onq8j9tm16gex8joo2sus68ysg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-[Public repositories](https://github.com/alfrzhb?tab=repositories) · [Contribution history](https://github.com/alfrzhb#js-contribution-activity-description) · [Harumnesia organization](https://github.com/Harumnesia)
+###
 
-<a href="https://github.com/alfrzhb#js-contribution-activity-description">
-  <img src="https://github-stats-extended.vercel.app/api?username=alfrzhb&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=true&amp;bg_color=F7F2E8&amp;title_color=252824&amp;text_color=44566C&amp;icon_color=B88F63&amp;border_color=D8CABB" width="470" alt="alfrzhb's public GitHub statistics; open contribution history for GitHub's current activity" />
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="30" alt="processing logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
 
-<sub>Public stats are cached and may differ from GitHub's contribution graph. The links above always lead to the source.</sub>
+###
 
-### Featured repositories
+<div align="left">
+  <a href="https://www.instagram.com/alfarizi_habibullah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=m.alfarizihabibullah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/m-alfarizi-habibullah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-**[tugas-akhir](https://github.com/alfrzhb/tugas-akhir)** — AI-assisted MySQL DDL optimization, built for my thesis. Analyze schemas, review suggestions, compare SQL and ERDs, and validate accepted changes in a sandbox with iterative correction.<br>
-<sub>Next.js · TypeScript · Python / FastAPI · MySQL DDL · Docker</sub>
+###
 
-**[rmc](https://github.com/alfrzhb/rmc)** — Ratama Project & Finance Tracker. An internal workflow application connecting opportunities, proposals and deals with project progress, invoices, payments and cost tracking.<br>
-<sub>React · TypeScript · Cloudflare Pages / Workers · D1</sub>
+<br clear="both">
 
-**[Harumnesia/harumnesia](https://github.com/Harumnesia/harumnesia)** — Harumnesia V2, an evolution of the DBS Coding Camp capstone. Explainable perfume recommendations through filtering, cosine similarity, weighted scoring and diversification, running in a browser worker.<br>
-<sub>React · TypeScript · Web Worker · Static dataset · Cloudflare Pages</sub>
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-**[MyDicodingEvent](https://github.com/alfrzhb/MyDicodingEvent)** — An Android learning project for discovering events, searching listings and saving favorites, with MVVM and local persistence.<br>
-<sub>Kotlin · Android · Jetpack · Retrofit · Room</sub>
-
-[Browse all repositories →](https://github.com/alfrzhb?tab=repositories)
-
-<img src="assets/doodles/divider.svg" width="680" alt="" />
-
-### Currently building
-
-- Refining [Harumnesia V2](https://github.com/Harumnesia/harumnesia) and its recommendation experience.
-- Developing my [personal portfolio](https://alfrzhb.com) and ALFRZHB visual identity.
-- Learning maintainable software architecture and Cloudflare-oriented systems.
-
-### Development stack
-
-**Web** — TypeScript · React · Next.js<br>
-**Android** — Kotlin · Jetpack · Room<br>
-**Systems & data** — Python / FastAPI · Docker · MySQL · Cloudflare · D1
-
----
-
-<img src="assets/character/original/alfrzhb-head.jpeg" width="36" alt="Original ALFRZHB face illustration" /> &nbsp; [Portfolio](https://alfrzhb.com) · [LinkedIn](https://www.linkedin.com/in/m-alfarizi-habibullah/) · [Email](mailto:m.alfarizihabibullah@gmail.com)
+###
